@@ -1,4 +1,4 @@
-package br.com.catalogorestaurante.model;
+package com.example.catalogorestaurante.model;
 
 public final class Dinheiro implements FormaPagamento {
 }

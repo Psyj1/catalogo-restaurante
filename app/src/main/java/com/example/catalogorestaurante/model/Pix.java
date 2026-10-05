@@ -1,4 +1,4 @@
-package br.com.catalogorestaurante.model;
+package com.example.catalogorestaurante.model;
 
 import java.math.BigDecimal;
 import java.util.Objects;

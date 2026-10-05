@@ -1,4 +1,4 @@
-package br.com.catalogorestaurante.model;
+package com.example.catalogorestaurante.model;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
