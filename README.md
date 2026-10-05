@@ -37,7 +37,7 @@ Os valores monetários e percentuais usam `BigDecimal`.
 
 ##  Como Executar o Projeto
 
-### Opção 1: Pelo Android Studio (Recomendado)
+### Pelo Android Studio
 
 1. **Clonar o Repositório:**
    ```bash
