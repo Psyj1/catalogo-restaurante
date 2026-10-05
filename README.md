@@ -43,6 +43,7 @@ Os valores monetários e percentuais usam `BigDecimal`.
    ```bash
    git clone <URL_DO_REPOSITORIO>
    cd catalogo-restaurante-Integra-ao-e-entrega
+```
 
 Abra o Android Studio.
 
@@ -55,4 +56,4 @@ Executar o App:
 Selecione o dispositivo de destino (Emulador ou Dispositivo Físico) na barra superior.
 
 Clique no botão Run
-```
+
